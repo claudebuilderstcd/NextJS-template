@@ -13,15 +13,6 @@ Perfect for 1-day hackathons and beginners! 🎉
 - ✅ API route for secure Claude integration
 - ✅ Easy setup - just 3 steps to get started
 
-## 🎯 What Can You Build?
-
-- **Chatbots** - Customer service, educational tutors, personal assistants
-- **Content Generators** - Blog posts, social media content, product descriptions
-- **Data Analyzers** - Summarize documents, extract insights, answer questions
-- **Creative Tools** - Story generators, brainstorming partners, coding helpers
-- **Study Assistants** - Explain concepts, generate quizzes, provide feedback
-- **And much more!** - The only limit is your imagination
-
 ## 🚀 Quick Start
 
 ### Step 1: Use This Template
@@ -222,16 +213,6 @@ const copyToClipboard = (text: string) => {
 - Make sure there are no TypeScript errors
 - Try: `rm -rf .next` then `npm run dev`
 
-## 💡 Tips for Hackathon Success
-
-1. **Start Simple** - Get the basic version working first, then add features incrementally
-2. **Test Frequently** - Run your app after each change to catch errors early
-3. **Use Console Logs** - Add `console.log()` to debug issues
-4. **Read Error Messages** - They usually tell you exactly what's wrong
-5. **Ask for Help** - Don't hesitate to ask mentors, teammates, or Claude itself!
-6. **Commit Often** - Use git to save your progress regularly
-7. **Have Fun!** - Experiment, be creative, and enjoy the process! 🎨
-
 ## 🎓 Understanding the Code
 
 ### How It Works
@@ -257,38 +238,6 @@ const copyToClipboard = (text: string) => {
 - **Environment Variables** - Secret values stored in `.env.local` (never commit these!)
 - **TypeScript** - Adds type checking to prevent errors
 
-## 🚢 Deploying Your App
-
-When your project is ready to share:
-
-### Deploy to Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Click "Import Project"
-4. Select your repository
-5. Add your `ANTHROPIC_API_KEY` in the environment variables section
-6. Click "Deploy"
-
-Your app will be live in minutes! 🎉
-
-### Other Options
-- **Netlify:** Similar to Vercel, great for Next.js
-- **Railway:** Easy deployment with database support
-- **AWS/Google Cloud:** More complex but scalable
-
-## 📝 License
-
-This template is free to use for your hackathon project. Build something amazing! 🚀
-
-## 🤝 Contributing
-
-Found a bug or have a suggestion? Feel free to open an issue or submit a pull request!
-
----
-
 **Good luck with your hackathon! 🎉**
-
-Need help? Check the resources above, ask your mentors, or use Claude itself to help you code!
 
 **Remember:** The best project is one that works and solves a real problem. Start simple and iterate!
